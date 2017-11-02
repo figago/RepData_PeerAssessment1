@@ -11,6 +11,9 @@ knitr::opts_chunk$set(echo = TRUE,
                       fig.path = "./figure/")
 ```
 
+## Gh-pages
+To view this without downloading the repo, check the github pages:
+https://figago.github.io/RepData_PeerAssessment1/
 
 ## Importing the libraries
 ```{r import, message=FALSE}
