@@ -226,4 +226,4 @@ plt <- ggplot(activityByIntervalByDayType,
 plt <- plt + geom_line() + facet_wrap(facets = ~dayType, nrow=2)
 plt
 ```
-We can see that there is less activity in the weekend than in the weekdays.
+We can see that there is less activity spikes in the weekend than in the weekdays.
